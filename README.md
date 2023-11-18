@@ -1,4 +1,4 @@
-I'm Shreya 
+I'm Shreya. 
 Coding as a tool for statistics 
 
 <!---
